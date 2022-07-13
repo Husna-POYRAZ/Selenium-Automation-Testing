@@ -1,5 +1,5 @@
 # Selenium-Automation-Testing
-[![CI - Ruby](https://github.com/SeleniumHQ/selenium/actions/workflows/ci-ruby.yml/badge.svg)](https://github.com/SeleniumHQ/selenium/actions/workflows/ci-ruby.yml)
+[![CI - Java](https://github.com/SeleniumHQ/selenium/actions/workflows/ci-java.yml/badge.svg)](https://github.com/SeleniumHQ/selenium/actions/workflows/ci-java.yml)
 
 <a href="https://selenium.dev"><img src="https://selenium.dev/images/selenium_logo_square_green.png" width="180" alt="Selenium"/></a>
 
